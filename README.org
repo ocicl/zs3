@@ -1,0 +1,9 @@
+* zs3
+
+Work with Amazon S3 and Amazon CloudFront from Common Lisp.
+
+|---------+-------------------------------------------------------------------------|
+| source  | file:https://github.com/xach/zs3/archive/refs/tags/release-1.3.3.tar.gz |
+| version | 1.3.3                                                                   |
+| systems | zs3                                                                     |
+|---------+-------------------------------------------------------------------------|
